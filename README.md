@@ -1,4 +1,4 @@
-#  <img align="center" alt="Miliotte-PowerBI" height="30" width="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> Dashboard de Estoque
+#  <img align="center" alt="Miliotte-PowerBI" height="30" width="30" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png"> Dashboard de Funcionários
 
 Dashboard desenvolvido utilizando a linguagem DAX para criação de médidas e a linguagem M <img height="20" width="20" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Query-Colored.svg">  para o tratamento dos dados.
 <p>
