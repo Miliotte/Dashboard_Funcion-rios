@@ -4,4 +4,7 @@ Dashboard desenvolvido utilizando a linguagem DAX para criação de médidas e a
 <p>
 <img align="center" src="https://user-images.githubusercontent.com/62629414/197346042-857b54d2-b3e0-4ac9-ad10-de93b6993b5e.gif">
 
+---
+
+Feito com :black_heart: by [Ricardo Miliotte](https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166/)
 
