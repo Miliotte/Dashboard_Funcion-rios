@@ -6,5 +6,5 @@ Dashboard desenvolvido utilizando a linguagem DAX para criação de médidas e a
 
 ---
 
-Feito com :black_heart: by [Ricardo Miliotte](https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166/)
+Feito com :black_heart: by <a href="https://www.linkedin.com/in/ricardo-miliotte-cruz-a430a0166" target="_blank">Ricardo Militte</a>
 
